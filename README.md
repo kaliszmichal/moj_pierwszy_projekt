@@ -1,4 +1,7 @@
-To jest testowy projekt 
-to jest nowa linijka
-
-to jest 4 linijka kodu
+1. [O projekcie](#-o-projekcie)
+2. [Funkcje](#-funkcje)
+3. [Technologie](#-technologie)
+4. [Instalacja i uruchomienie](#-instalacja-i-uruchomienie)
+5. [Jak używać](#-jak-używać)
+6. [Autorzy](#-autorzy)
+7. [Licencja](#-licencja)
